@@ -1,0 +1,25 @@
+{
+    "name": "dino/dompdf",
+    "type": "library",
+    "description": "A PDF engine that generates PDFs based on HTML code.",
+    "keywords": ["pdf","dompdf"],
+    "homepage": "http://code.google.com/p/dompdf/",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Benj Carson",
+            "email": "benjcarson@digitaljunkies.ca"
+        },
+		{
+            "name": "Raymond Kolbe",
+            "email": "raymond.kolbe@maine.edu"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["lib/"],
+		"files": ["lib/DOMPDF/functions.inc.php"]
+    }
+}
