@@ -29,4 +29,4 @@ Installation of DOMPDF uses PHP Composer. For more information about PHP Compose
      http://getcomposer.org/installer and execute it with PHP)
   4. run `php composer.phar install`
 
-  5. copy the dompdf_config.*.inc.php.dist files to dompdf_config.*.inc.php to your working directory and follow the [dompdf usage docs](http://code.google.com/p/dompdf/wiki/Usage).
+  5. copy the ``dompdf_config.*.inc.php.dist`` files to ``dompdf_config.*.inc.php`` to your working directory and follow the [dompdf usage docs](http://code.google.com/p/dompdf/wiki/Usage).
