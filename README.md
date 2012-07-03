@@ -1,15 +1,17 @@
 dompdf
 ======
 
-A [Zend Framework 2](https://github.com/zendframework/zf2/) library that provides
-v0.6.0beta3 of the [DOMPDF](http://code.google.com/p/dompdf/) library.
+PHP Composer package implementation for the [DOMPDF project](http://code.google.com/p/dompdf/).
+
+From DOMPDF project site:
+
+> dompdf is an HTML to PDF converter. At its heart, dompdf is (mostly) [CSS 2.1](http://www.w3.org/TR/CSS2/) compliant HTML layout and rendering engine written in PHP. It is a style-driven renderer: it will download and read external stylesheets, inline style tags, and the style attributes of individual HTML elements. It also supports most presentational [HTML attributes](http://www.w3.org/TR/html4/index/attributes.html). [Taken from DOMPDF](http://code.google.com/p/dompdf/)
 
 ## Requirements
-  - [Zend Framework 2](http://www.github.com/zendframework/zf2)
+  - [PHP 5.3+](http://php.net/)
 
 ## Installation
-Installation of dompdf uses PHP Composer. For more information about
-PHP Composer, please visit the official [PHP Composer site](http://getcomposer.org/).
+Installation of DOMPDF uses PHP Composer. For more information about PHP Composer, please visit the official [PHP Composer site](http://getcomposer.org/).
 
 #### Installation steps
 
