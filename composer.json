@@ -21,5 +21,6 @@
     "autoload": {
         "classmap": ["lib/"],
 		"files": ["lib/DOMPDF/functions.inc.php"]
-    }
+    },
+    "bin": ["bin/dompdf.php"]
 }
