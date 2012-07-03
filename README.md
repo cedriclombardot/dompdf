@@ -27,3 +27,4 @@ PHP Composer, please visit the official [PHP Composer site](http://getcomposer.o
      http://getcomposer.org/installer and execute it with PHP)
   4. run `php composer.phar install`
 
+  5. copy the dompdf_config.*.inc.php.dist files to dompdf_config.*.inc.php to your working directory and follow the [dompdf usage docs](http://code.google.com/p/dompdf/wiki/Usage).
